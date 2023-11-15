@@ -1,0 +1,12 @@
+CPU sheduling according to First come First serve algorithm
+
+Process Count : 0
+P. No		Arrival time	Burst time	Completion time	Waiting time	Turn-around time	Waiting-time-average
+1		0.0		3.0		3.0		0.0		3.0			1.0
+2		1.0		5.0		8.0		2.0		7.0			1.4
+3		3.0		2.0		10.0		5.0		7.0			3.5
+4		9.0		5.0		15.0		1.0		6.0			1.2
+5		12.0		5.0		20.0		3.0		8.0			1.6
+
+Avgerage Turn-around time :6.2
+Average Waiting time:2.2
